@@ -1,0 +1,32 @@
+{
+  "data": {
+    "properties": [
+      {
+        "type": "text",
+        "displayName": "Website",
+        "name": "website"
+      },
+      {
+        "type": "text",
+        "displayName": "Email Address",
+        "name": "email"
+      },
+      {
+        "type": "text",
+        "displayName": "First Name",
+        "name": "name"
+      },
+      {
+        "type": "text",
+        "displayName": "Last Name",
+        "name": "last_name"
+      },
+      {
+        "type": "text",
+        "displayName": "Phone No",
+        "name": "phone_number"
+      }
+
+    ]
+  }
+}
